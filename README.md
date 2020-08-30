@@ -1,2 +1,5 @@
 # ConnectFour
-A very popular game played between 2 players where each player needs to try and get four coins of their color in a row either horizontally, vertically, or diagonally. 
+A very popular 2 player game:
+Players take turns to drop a disk of their respective color into one of seven columns.
+The objective is for a player to get four disks in a row of their respective color either horizontally, vertically, or diagonally. 
+
